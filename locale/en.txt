@@ -1,0 +1,17 @@
+#: locale=en
+
+## Media
+
+### Title
+panorama_2C28CA52_3031_6BF8_41C1_B3C94FDD1A33.label = Tang 3 - Ngoai BBQ 1
+panorama_2C28E0CC_3031_58E8_41C1_0E4B5993D759.label = Tang 3 - Ngoai BBQ 2
+panorama_2C28E723_3031_3958_41B6_91530B189916.label = Tang 3 - Ngoai BBQ 3
+panorama_2C150D15_3031_2978_41BD_6202D433ECF2.label = Tang 3 - Ngoai BBQ 4
+panorama_2D33820B_3031_DB68_41A1_EE525495788C.label = Tang 3 - Ngoai BBQ 5
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Untitled 6
